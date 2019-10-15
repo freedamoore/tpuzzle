@@ -1,0 +1,111 @@
+body, html {
+  margin: 0;
+  height: 100%;
+  text-align: left;
+  font-family: 'Overlock', cursive;
+}
+
+h1 {
+  color: white;
+  font-family: 'Barriecito', cursive;
+  font-size: 60px;
+  padding: 20px;
+}
+
+button {
+  color: #ffffff;
+  margin: 10px;
+  border: 0;
+  border-radius: 50%;
+  font-size: 20px;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+
+img {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-image: linear-gradient(to right, #6da8b6 , #b67b6d);
+  background-position: center top;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 120px;
+}
+
+.center-div{
+  text-align: center;
+}
+
+.share {
+  padding: 10px;
+}
+
+.footer {
+  background-color: #6da8b6;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.btn-refresh{
+  background-color: #6da8b6;
+  color: white;
+}
+
+.btn-refresh:hover {
+  background: #92bbc4;
+  color: white;
+}
+
+.fb-share-button {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.twitter-share-button {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#containment-wrapper {
+  background-color: #F8F3F2;
+  width: 95%;
+  height: 500px;
+  border: 2px solid #ccc;
+  margin: 1% 2.5%;
+}
+
+#btn1 {
+  background-color: #6da8b6;
+}
+
+#btn1:hover {
+  background: #92bbc4;
+}
+
+#btn2 {
+  background-color: #b67b6d;
+}
+
+#btn2:hover {
+  background: #c49b92;
+}
+
+#btn3 {
+  background-color: #b66da8;
+}
+
+#btn3:hover {
+  background: #c492bb;
+}
+
+#btn4 {
+  background-color: #6db67b;
+}
+
+#btn4:hover {
+  background: #92c49b;
+}
